@@ -1,5 +1,5 @@
 {
-     "diseases": [
+    "diseases": [
         {
             "name": "Hypertension",
             "medicines": [
@@ -16,47 +16,6 @@
                     "dose": "10 mg",
                     "form": "tablet",
                     "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
-                },
-                {
-                    "name": "Losartan",
-                    "brand": "Cozaar",
-                    "dose": "50 mg",
-                    "form": "tablet",
-                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
-                },
-                {
-                    "name": "Metoprolol",
-                    "brand": "Lopressor",
-                    "dose": "100 mg",
-                    "form": "tablet",
-                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
-                }
-            ]
-        },
-        {
-            "name": "Diabetes",
-            "medicines": [
-                {
-                    "name": "Metformin",
-                    "brand": "Glucophage",
-                    "dose": "500 mg",
-                    "form": "tablet",
-                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
-                },
-                {
-                    "name": "Insulin",
-                    "brand": "Humulin R",
-                    "dose": "varied",
-                    "form": "injection",
-                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
-                },
-                {
-                    "name": "Glipizide",
-                    "brand": "Glucotrol",
-                    "dose": "5 mg",
-                    "form": "tablet",
-                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
-                },"
                 },
                 {
                     "name": "Losartan",
