@@ -1,5 +1,5 @@
 {
-    "diseases": [
+     "diseases": [
         {
             "name": "Hypertension",
             "medicines": [
@@ -7,25 +7,29 @@
                     "name": "Amlodipine",
                     "brand": "Norvasc",
                     "dose": "5 mg",
-                    "form": "tablet"
+                    "form": "tablet",
+                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
                 },
                 {
                     "name": "Lisinopril",
                     "brand": "Zestril",
                     "dose": "10 mg",
-                    "form": "tablet"
+                    "form": "tablet",
+                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
                 },
                 {
                     "name": "Losartan",
                     "brand": "Cozaar",
                     "dose": "50 mg",
-                    "form": "tablet"
+                    "form": "tablet",
+                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
                 },
                 {
                     "name": "Metoprolol",
                     "brand": "Lopressor",
                     "dose": "100 mg",
-                    "form": "tablet"
+                    "form": "tablet",
+                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
                 }
             ]
         },
@@ -36,172 +40,65 @@
                     "name": "Metformin",
                     "brand": "Glucophage",
                     "dose": "500 mg",
-                    "form": "tablet"
+                    "form": "tablet",
+                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
                 },
                 {
                     "name": "Insulin",
                     "brand": "Humulin R",
                     "dose": "varied",
-                    "form": "injection"
+                    "form": "injection",
+                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
                 },
                 {
                     "name": "Glipizide",
                     "brand": "Glucotrol",
                     "dose": "5 mg",
-                    "form": "tablet"
+                    "form": "tablet",
+                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
+                },"
                 },
                 {
-                    "name": "Pioglitazone",
-                    "brand": "Actos",
-                    "dose": "15 mg",
-                    "form": "tablet"
-                }
-            ]
-        },
-        {
-            "name": "Common Cold",
-            "medicines": [
-                {
-                    "name": "Paracetamol",
-                    "brand": "Tylenol",
-                    "dose": "500 mg",
-                    "form": "tablet"
-                },
-                {
-                    "name": "Ibuprofen",
-                    "brand": "Advil",
-                    "dose": "200 mg",
-                    "form": "tablet"
-                },
-                {
-                    "name": "Cetirizine",
-                    "brand": "Zyrtec",
-                    "dose": "10 mg",
-                    "form": "tablet"
-                },
-                {
-                    "name": "Phenylephrine",
-                    "brand": "Sudafed PE",
-                    "dose": "10 mg",
-                    "form": "tablet"
-                }
-            ]
-        },
-        {
-            "name": "Asthma",
-            "medicines": [
-                {
-                    "name": "Albuterol",
-                    "brand": "Ventolin",
-                    "dose": "90 mcg",
-                    "form": "inhaler"
-                },
-                {
-                    "name": "Fluticasone",
-                    "brand": "Flovent",
-                    "dose": "110 mcg",
-                    "form": "inhaler"
-                },
-                {
-                    "name": "Montelukast",
-                    "brand": "Singulair",
-                    "dose": "10 mg",
-                    "form": "tablet"
-                },
-                {
-                    "name": "Salmeterol",
-                    "brand": "Serevent",
-                    "dose": "50 mcg",
-                    "form": "inhaler"
-                }
-            ]
-        },
-        {
-            "name": "Depression",
-            "medicines": [
-                {
-                    "name": "Fluoxetine",
-                    "brand": "Prozac",
-                    "dose": "20 mg",
-                    "form": "capsule"
-                },
-                {
-                    "name": "Sertraline",
-                    "brand": "Zoloft",
+                    "name": "Losartan",
+                    "brand": "Cozaar",
                     "dose": "50 mg",
-                    "form": "tablet"
+                    "form": "tablet",
+                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
                 },
                 {
-                    "name": "Citalopram",
-                    "brand": "Celexa",
-                    "dose": "20 mg",
-                    "form": "tablet"
-                },
-                {
-                    "name": "Escitalopram",
-                    "brand": "Lexapro",
-                    "dose": "10 mg",
-                    "form": "tablet"
+                    "name": "Metoprolol",
+                    "brand": "Lopressor",
+                    "dose": "100 mg",
+                    "form": "tablet",
+                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
                 }
             ]
         },
         {
-            "name": "Arthritis",
+            "name": "Diabetes",
             "medicines": [
                 {
-                    "name": "Ibuprofen",
-                    "brand": "Motrin",
-                    "dose": "400 mg",
-                    "form": "tablet"
-                },
-                {
-                    "name": "Naproxen",
-                    "brand": "Aleve",
-                    "dose": "250 mg",
-                    "form": "tablet"
-                },
-                {
-                    "name": "Methotrexate",
-                    "brand": "Trexall",
-                    "dose": "2.5 mg",
-                    "form": "tablet"
-                },
-                {
-                    "name": "Sulfasalazine",
-                    "brand": "Azulfidine",
+                    "name": "Metformin",
+                    "brand": "Glucophage",
                     "dose": "500 mg",
-                    "form": "tablet"
-                }
-            ]
-        },
-        {
-            "name": "Migraine",
-            "medicines": [
-                {
-                    "name": "Sumatriptan",
-                    "brand": "Imitrex",
-                    "dose": "50 mg",
-                    "form": "tablet"
+                    "form": "tablet",
+                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
                 },
                 {
-                    "name": "Rizatriptan",
-                    "brand": "Maxalt",
-                    "dose": "10 mg",
-                    "form": "tablet"
+                    "name": "Insulin",
+                    "brand": "Humulin R",
+                    "dose": "varied",
+                    "form": "injection",
+                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
                 },
                 {
-                    "name": "Ergotamine",
-                    "brand": "Ergomar",
-                    "dose": "2 mg",
-                    "form": "tablet"
-                },
-                {
-                    "name": "Topiramate",
-                    "brand": "Topamax",
-                    "dose": "25 mg",
-                    "form": "tablet"
+                    "name": "Glipizide",
+                    "brand": "Glucotrol",
+                    "dose": "5 mg",
+                    "form": "tablet",
+                    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320707674/IP/LC/LZ/21617815/norvasc-generic-pills-500x500-v1.jpg"
                 }
             ]
         }
     ]
-}
+}-
