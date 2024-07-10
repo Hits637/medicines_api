@@ -1,579 +1,579 @@
 {
-    "disease": "Hypertension",
-    "medicines": [
-        {
-            "name": "Amlodipine",
-            "form": "Tablet",
-            "price": 83,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/10/357072066/NM/BM/NI/135658020/amlodipine-tablets-ip-5-mg-500x500.jpg"
-        },
-        {
-            "name": "Lisinopril",
-            "form": "Tablet",
-            "price": 218,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/JR/YJ/LF/29824675/lisinopril-20-mg-tablet.jpg"
-        },
-        {
-            "name": "Losartan",
-            "form": "Tablet",
-            "price": 157,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/11/361743642/AJ/AQ/TX/27213454/losartan-potassium-tablets-50-mg-500x500.jpg"
-        }
-    ]
-},
-{
-    "disease": "Diabetes",
-    "medicines": [
-        {
-            "name": "Metformin",
-            "form": "Tablet",
-            "price": 44,
-            "image_url": "https://cdn.mos.cms.futurecdn.net/Njm9e5KQezGBFwYRjaTkbC-1200-80.jpg"
-        },
-        {
-            "name": "Insulin",
-            "form": "Injection",
-            "price": 750,
-            "image_url": "https://blog-images-1.pharmeasy.in/2018/02/15113805/PE_Blog2.png"
-        },
-        {
-            "name": "Glipizide",
-            "form": "Tablet",
-            "price": 10,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/3/292620999/KE/OS/LL/147460468/glipizide-tablet-bp.JPG"
-        }
-    ]
-},
-{
-    "disease": "Asthma",
-    "medicines": [
-        {
-            "name": "Albuterol",
-            "form": "Inhaler",
-            "price": 6,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/8/337313153/HK/FV/II/57623134/buy-albuterol-hfa-90-mcg-inhaler-online.jpg"
-        },
-        {
-            "name": "Fluticasone",
-            "form": "Inhaler",
-            "price": 470,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2021/6/FF/KL/ZN/14699534/fluticasone-propionate-nasal-spray.jpg"
-        },
-        {
-            "name": "Montelukast",
-            "form": "Tablet",
-            "price": 276,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/BR/BM/BR/23618296/montelukast-10-mg-tablet.jpg"
-        }
-    ]
-},
-{
-    "disease": "Arthritis",
-    "medicines": [
-        {
-            "name": "Ibuprofen",
-            "form": "Tablet",
-            "price": 17,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/319597573/MH/NE/SR/135658020/ibuprofen-400-mg-bp-tablets.jpg"
-        },
-        {
-            "name": "Celecoxib",
-            "form": "Capsule",
-            "price": 98,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/2/383289821/ON/YB/PM/6630452/celecoxib-200mg.jpg"
-        },
-        {
-            "name": "Methotrexate",
-            "form": "Tablet",
-            "price": 140,
-            "image_url": "https://5.imimg.com/data5/ANDROID/Default/2023/1/ON/VK/SA/82882300/product-jpeg.jpg"
-        }
-    ]
-},
-{
-    "disease": "Migraine",
-    "medicines": [
-        {
-            "name": "Sumatriptan",
-            "form": "Tablet",
-            "price": 36,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2021/3/ZM/CU/TM/12931111/sumatriptan-50mg-tablets.jpg"
-        },
-        {
-            "name": "Propranolol",
-            "form": "Tablet",
-            "price": 47,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/2/PX/BZ/PK/129531575/inderal-10mg-40mg-containing-propranolol.jpg"
-        },
-        {
-            "name": "Topiramate",
-            "form": "Tablet",
-            "price": 128,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/8/331694453/BI/FC/SQ/6299000/topiramate-tablets.jpg"
-        }
-    ]
-},
-{
-    "disease": "Chronic Obstructive Pulmonary Disease (COPD)",
-    "medicines": [
-        {
-            "name": "Tiotropium",
-            "form": "Inhaler",
-            "price": 179,
-            "image_url": "https://i0.wp.com/www.mayabiotechindia.com/wp-content/uploads/2023/04/Tiotropium-Bromide-Inhaler.jpg"
-        },
-        {
-            "name": "Formoterol",
-            "form": "Inhaler",
-            "price": 405,
-            "image_url": "https://i0.wp.com/www.mayabiotechindia.com/wp-content/uploads/2023/02/Formoterol-Fumarate-and-Budesonide-Inhalation-200-Budisure-F-200.webp"
-        },
-        {
-            "name": "Ipratropium",
-            "form": "Inhaler",
-            "price": 35,
-            "image_url": "https://nutrarespiro.com/public/Products/gwQp2lSFLDvM6n2G1VAHRxMVWZ40UXaDBApbGZcv.jpg"
-        }
-    ]
-},
-{
-    "disease": "Hyperlipidemia",
-    "medicines": [
-        {
-            "name": "Atorvastatin",
-            "form": "Tablet",
-            "price": 82,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/7/325710235/RG/XA/JU/74349057/atorvastatin-10-mg.jpg"
-        },
-        {
-            "name": "Simvastatin",
-            "form": "Tablet",
-            "price": 188,
-            "image_url": "https://media.post.rvohealth.io/wp-content/uploads/2020/09/388x210_Simvastatin_vs_Atorva.jpg"
-        },
-        {
-            "name": "Rosuvastatin",
-            "form": "Tablet",
-            "price": 226,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/9/341630655/NP/HL/SU/190216606/rosuvastatin-5-mg-tablets.jpg"
-        }
-    ]
-},
-{
-    "disease": "Depression",
-    "medicines": [
-        {
-            "name": "Fluoxetine",
-            "form": "Tablet",
-            "price": 67,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/8/337360950/BE/NC/FK/7034457/fluoxetine-capsules-20mg.jpg"
-        },
-        {
-            "name": "Sertraline",
-            "form": "Tablet",
-            "price": 197,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/8/337366367/KI/RJ/BA/7034457/sertraline-100-mg-tablets.jpg"
-        },
-        {
-            "name": "Escitalopram",
-            "form": "Tablet",
-            "price": 84,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2021/12/CD/WU/EA/1803202/10-mg-escitalopram-tablet.jpg"
-        }
-    ]
-},
-{
-    "disease": "Anxiety",
-    "medicines": [
-        {
-            "name": "Alprazolam",
-            "form": "Tablet",
-            "price": 29,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/3/397673662/GY/IN/GA/156548917/alprazolam-0-5-mg.jpg"
-        },
-        {
-            "name": "Lorazepam",
-            "form": "Tablet",
-            "price": 23,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/4/409399941/FP/PQ/JV/213844040/lorazepam-2-mg-with-delivery.jpg"
-        },
-        {
-            "name": "Buspirone",
-            "form": "Tablet",
-            "price": 50,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/313302798/QC/GO/II/1090199/5-mg-buspirone-hydrochloride-tablets-ip.jpg"
-        }
-    ]
-},
-{
-    "disease": "Bipolar Disorder",
-    "medicines": [
-        {
-            "name": "Lithium",
-            "form": "Tablet",
-            "price": 85,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/FF/VA/AF/23618296/lithium-carbonate-300mg-tab.jpg"
-        },
-        {
-            "name": "Valproate",
-            "form": "Tablet",
-            "price": 103,
-            "image_url": "https://5.imimg.com/data5/TX/YV/MY-557330/sodium-valproate.jpg"
-        },
-        {
-            "name": "Lamotrigine",
-            "form": "Tablet",
-            "price": 510,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/314674799/EC/WL/OR/100103466/lamotrigine-100-mg-tablet.jpeg"
-        }
-    ]
-},
-{
-    "disease": "Schizophrenia",
-    "medicines": [
-        {
-            "name": "Risperidone",
-            "form": "Tablet",
-            "price": 35,
-            "image_url": "https://example.com/risperidone.jpg"
-        },
-        {
-            "name": "Olanzapine",
-            "form": "Tablet",
-            "price": 59,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/1/VU/BB/BY/13166357/olanzapine-ip-5mg-.jpg"
-        },
-        {
-            "name": "Quetiapine",
-            "form": "Tablet",
-            "price": 69,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/4/410197103/HN/ZG/JS/1803202/quetiapine-100-mg-tablets-250x250.png"
-        }
-    ]
-},
-{
-    "disease": "Epilepsy",
-    "medicines": [
-        {
-            "name": "Carbamazepine",
-            "form": "Tablet",
-            "price": 55,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/4/301799761/IL/JM/FH/7034457/carbamazepine-tablets.jpg"
-        },
-        {
-            "name": "Phenytoin",
-            "form": "Tablet",
-            "price": 235,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/UP/CJ/AH/760137/phenytoin-sodium-100-mg-tablets-500x500.jpg"
-        },
-        {
-            "name": "Levetiracetam",
-            "form": "Tablet",
-            "price": 218,
-            "image_url": "https://www.eridanushealth.com/wp-content/uploads/2020/07/Ericetam-500-1.jpg"
-        }
-    ]
-},
-{
-    "disease": "Parkinson's Disease",
-    "medicines": [
-        {
-            "name": "Levodopa",
-            "form": "Tablet",
-            "price": 43,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/10/PL/OL/VE/23618296/levodopa-100-mg-carbidopa-25-mg.jpg"
-        },
-        {
-            "name": "Carbidopa",
-            "form": "Tablet",
-            "price": 43,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/9/343306037/MG/UR/UF/196340703/carbidopa-levodopa-tablet.jpg"
-        },
-        {
-            "name": "Pramipexole",
-            "form": "Tablet",
-            "price": 167,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/2/TB/HO/LP/2581214/pramipex-0-125-tablet-pramipexole-dihydrochloride-tablets-.jpg"
-        }
-    ]
-},
-{
-    "disease": "Alzheimer's Disease",
-    "medicines": [
-        {
-            "name": "Donepezil",
-            "form": "Tablet",
-            "price": 203,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/9/343062653/XC/ZF/LS/557330/donepezil-tablet.jpg"
-        },
-        {
-            "name": "Memantine",
-            "form": "Tablet",
-            "price": 210,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/11/362294550/SJ/SV/JE/140372251/memantine-hydrochloride-tablets-usp.jpg"
-        },
-        {
-            "name": "Rivastigmine",
-            "form": "Capsule",
-            "price": 192,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/MT/WO/YV/23618296/rivamer-1-5mg-capsule.jpg"
-        }
-    ]
-},
-{
-    "disease": "Osteoporosis",
-    "medicines": [
-        {
-            "name": "Alendronate",
-            "form": "Tablet",
-            "price": 250,
-            "image_url": "https://tiimg.tistatic.com/fp/1/008/245/70-mg-alendronate-sodium-tablet-suitable-for-women-recommended-by-doctor-465.jpg"
-        },
-        {
-            "name": "Risedronate",
-            "form": "Tablet",
-            "price": 284,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/2/FN/QO/EJ/57999077/risedronate-risofos-tablets.jpg"
-        },
-        {
-            "name": "Calcitonin",
-            "form": "Injection",
-            "price": 1270,
-            "image_url": "https://5.imimg.com/data5/RG/TG/GT/SELLER-79560955/liquid-calcitonic-injection-ip.jpg"
-        }
-    ]
-},
-{
-    "disease": "Hypothyroidism",
-    "medicines": [
-        {
-            "name": "Levothyroxine",
-            "form": "Tablet",
-            "price": 167,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/8/FH/HX/FF/154726424/levothyroxine-50-mcg-tablets.jpg"
-        },
-        {
-            "name": "Liothyronine",
-            "form": "Tablet",
-            "price": 1400,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/7/329384024/FS/UL/ZM/109163897/linorma-t3-1.jpg"
-        },
-        {
-            "name": "Armour Thyroid",
-            "form": "Tablet",
-            "price": 671,
-            "image_url": "https://5.imimg.com/data5/WD/GU/QS/SELLER-89988329/armour-thyroid-medicines.jpg"
-        }
-    ]
-},
-{
-    "disease": "Hyperthyroidism",
-    "medicines": [
-        {
-            "name": "Methimazole",
-            "form": "Tablet",
-            "price": 349,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2021/1/XW/LT/OO/88462799/methimercazole-10-tablet.jpg"
-        },
-        {
-            "name": "Propylthiouracil",
-            "form": "Tablet",
-            "price": 870,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/9/DA/LK/SG/160318558/propylthiouracil-tablet.jpg"
-        },
-        {
-            "name": "Radioactive Iodine",
-            "form": "Capsule",
-            "price": 107,
-            "image_url": "https://assets.medpagetoday.net/media/devqa/images/80xxx/80895.jpg"
-        }
-    ]
-},
-{
-    "disease": "Anemia",
-    "medicines": [
-        {
-            "name": "Ferrous Sulfate",
-            "form": "Tablet",
-            "price": 339,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2021/8/JV/VG/SP/624372/feurros-sulphate.jpg"
-        },
-        {
-            "name": "Folic Acid",
-            "form": "Tablet",
-            "price": 398,
-            "image_url": "https://m.media-amazon.com/images/I/41sz-mA-OeL.AC_UF1000,1000_QL80.jpg"
-        },
-        {
-            "name": "Vitamin B12",
-            "form": "Injection",
-            "price": 498,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/1/380126670/RE/AO/HG/126410288/vitamin-b12-injection.jpeg"
-        }
-    ]
-},
-{
-    "disease": "Gastroesophageal Reflux Disease (GERD)",
-    "medicines": [
-        {
-            "name": "Omeprazole",
-            "form": "Tablet",
-            "price": 64,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/9/348591590/PV/AJ/KF/107077587/omeprazole-capsules-ip-20-mg.jpeg"
-        },
-        {
-            "name": "Ranitidine",
-            "form": "Tablet",
-            "price": 49,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/7/CD/MN/UA/147460468/ranitidine-150mg-.jpg"
-        },
-        {
-            "name": "Esomeprazole",
-            "form": "Tablet",
-            "price": 167,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/11/BU/PG/SH/23618296/esomeprazole-20-mg-40-mg-tab-500x500.jpeg"
-        }
-    ]
-},
-{
-    "disease": "Peptic Ulcer",
-    "medicines": [
-        {
-            "name": "Pantoprazole",
-            "form": "Tablet",
-            "price": 170,
-            "image_url": "https://www.krishlarpharma.com/wp-content/uploads/2019/12/KRITZOL-40-tablet.jpg"
-        },
-        {
-            "name": "Lansoprazole",
-            "form": "Tablet",
-            "price": 140,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/5/308538593/TT/KX/MB/20713248/lansoprazole-capsules-ip-30-mg-500x500.jpg"
-        },
-        {
-            "name": "Sucralfate",
-            "form": "Tablet",
-            "price": 123,
-            "image_url": "https://www.netmeds.com/images/product-v1/600x600/359806/sucrafil_tablet_10_s_0.jpg"
-        }
-    ]
-},
-{
-    "disease": "Irritable Bowel Syndrome (IBS)",
-    "medicines": [
-        {
-            "name": "Dicyclomine",
-            "form": "Tablet",
-            "price": 49,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/6/MO/PQ/EX/31086406/dicyclomine-hydrochloride-tablets.jpg"
-        },
-        {
-            "name": "Hyoscyamine",
-            "form": "Tablet",
-            "price": 56,
-            "image_url": "https://cpimg.tistatic.com/07673964/b/4/Hyoscyamine-Tablets.jpg"
-        },
-        {
-            "name": "Loperamide",
-            "form": "Tablet",
-            "price": 16,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/7/325604889/ID/VX/WP/154616807/diarmak-2-loperamide-2-mg-tablets-makmaul-labocare-1x10.png"
-        }
-    ]
-},
-{
-    "disease": "Celiac Disease",
-    "medicines": [
-        {
-            "name": "Gluten-free Diet",
-            "form": "Diet",
-            "price": 342,
-            "image_url": "https://bestgastroahmedabad.com/wp-content/uploads/2023/06/Celiac-Disease-food-to-eat-and-avoid-scaled.jpg"
-        },
-        {
-            "name": "Vitamin Supplements",
-            "form": "Tablet",
-            "price": 1440,
-            "image_url": "https://5.imimg.com/data5/MH/KW/KU/SELLER-1733081/antioxidants-multivitamin-multimineral-capsules.jpg"
-        },
-        {
-            "name": "Corticosteroids",
-            "form": "Tablet",
-            "price": 64,
-            "image_url": "https://www.hss.edu/images/socialmedia/corticosteroid-prednisone-tablets-1200x628.jpg"
-        }
-    ]
-},
-{
-    "disease": "Crohn's Disease",
-    "medicines": [
-        {
-            "name": "Mesalamine",
-            "form": "Tablet",
-            "price": 71,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/6/XV/YT/RK/13166357/aloe-vera-juice-500-ml-500x500.jpeg"
-        },
-        {
-            "name": "Azathioprine",
-            "form": "Tablet",
-            "price": 118,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/6/TF/CR/IY/118517374/azathioprine-tablets-50mg.jpg"
-        },
-        {
-            "name": "Infliximab",
-            "form": 17440,
-            "price": "N/A",
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/9/RC/JQ/VI/20293607/infliximab-injection.jpg"
-        }
-    ]
-},
-{
-    "disease": "Ulcerative Colitis",
-    "medicines": [
-        {
-            "name": "Sulfasalazine",
-            "form": "Tablet",
-            "price": 119,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/IT/GL/HV/23618296/sulfasalazine-500-mg-1000-mg.jpg"
-        },
-        {
-            "name": "Prednisone",
-            "form": "Tablet",
-            "price": 77,
-            "image_url": "https://cdn.mos.cms.futurecdn.net/m8xQaU8ZnvPfq8xiiU5RtW-1200-80.jpg"
-        },
-        {
-            "name": "Adalimumab",
-            "form": "Injection",
-            "price": 10000,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/1/379347975/WX/VP/GL/58894624/adalimumab-40mg-injection-500x500.jpeg"
-        }
-    ]
-},
-{
-    "disease": "Chronic Kidney Disease",
-    "medicines": [
-        {
-            "name": "Epoetin Alfa",
-            "form": "Injection",
-            "price": 900,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/4/408139386/RY/PV/YC/218057651/epoetin-alfa.jpeg"
-        },
-        {
-            "name": "Calcium Acetate",
-            "form": "Tablet",
-            "price": 49,
-            "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/1/WD/AB/IK/13166357/calcium-acetate-usp-667mg.jpg"
-        },
-        {
-            "name": "Sevelamer",
-            "form": "Tablet",
-            "price": 203,
-            "image_url": "https://5.imimg.com/data5/ANDROID/Default/2023/6/316242763/JT/AH/VQ/95620222/product-jpeg.jpg"
-        }
-    ]
-},
-[
+        "disease": "Hypertension",
+        "medicines": [
+            {
+                "name": "Amlodipine",
+                "form": "Tablet",
+                "price": 83,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/10/357072066/NM/BM/NI/135658020/amlodipine-tablets-ip-5-mg-500x500.jpg"
+            },
+            {
+                "name": "Lisinopril",
+                "form": "Tablet",
+                "price": 218 ,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/JR/YJ/LF/29824675/lisinopril-20-mg-tablet.jpg"
+            },
+            {
+                "name": "Losartan",
+                "form": "Tablet",
+                "price": 157,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/11/361743642/AJ/AQ/TX/27213454/losartan-potassium-tablets-50-mg-500x500.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Diabetes",
+        "medicines": [
+            {
+                "name": "Metformin",
+                "form": "Tablet",
+                "price": 44,
+                "image_url": "https://cdn.mos.cms.futurecdn.net/Njm9e5KQezGBFwYRjaTkbC-1200-80.jpg"
+            },
+            {
+                "name": "Insulin",
+                "form": "Injection",
+                "price": 750,
+                "image_url": "https://blog-images-1.pharmeasy.in/2018/02/15113805/PE_Blog2.png"
+            },
+            {
+                "name": "Glipizide",
+                "form": "Tablet",
+                "price": 10,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/3/292620999/KE/OS/LL/147460468/glipizide-tablet-bp.JPG"
+            }
+        ]
+    },
+    {
+        "disease": "Asthma",
+        "medicines": [
+            {
+                "name": "Albuterol",
+                "form": "Inhaler",
+                "price": 6,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/8/337313153/HK/FV/II/57623134/buy-albuterol-hfa-90-mcg-inhaler-online.jpg"
+            },
+            {
+                "name": "Fluticasone",
+                "form": "Inhaler",
+                "price": 470,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2021/6/FF/KL/ZN/14699534/fluticasone-propionate-nasal-spray.jpg"
+            },
+            {
+                "name": "Montelukast",
+                "form": "Tablet",
+                "price": 276,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/BR/BM/BR/23618296/montelukast-10-mg-tablet.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Arthritis",
+        "medicines": [
+            {
+                "name": "Ibuprofen",
+                "form": "Tablet",
+                "price": 17,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/319597573/MH/NE/SR/135658020/ibuprofen-400-mg-bp-tablets.jpg"
+            },
+            {
+                "name": "Celecoxib",
+                "form": "Capsule",
+                "price": 98,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/2/383289821/ON/YB/PM/6630452/celecoxib-200mg.jpg"
+            },
+            {
+                "name": "Methotrexate",
+                "form": "Tablet",
+                "price": 140,
+                "image_url": "https://5.imimg.com/data5/ANDROID/Default/2023/1/ON/VK/SA/82882300/product-jpeg.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Migraine",
+        "medicines": [
+            {
+                "name": "Sumatriptan",
+                "form": "Tablet",
+                "price": 36,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2021/3/ZM/CU/TM/12931111/sumatriptan-50mg-tablets.jpg"
+            },
+            {
+                "name": "Propranolol",
+                "form": "Tablet",
+                "price": 47,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/2/PX/BZ/PK/129531575/inderal-10mg-40mg-containing-propranolol.jpg"
+            },
+            {
+                "name": "Topiramate",
+                "form": "Tablet",
+                "price": 128,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/8/331694453/BI/FC/SQ/6299000/topiramate-tablets.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Chronic Obstructive Pulmonary Disease (COPD)",
+        "medicines": [
+            {
+                "name": "Tiotropium",
+                "form": "Inhaler",
+                "price": 179,
+                "image_url": "https://i0.wp.com/www.mayabiotechindia.com/wp-content/uploads/2023/04/Tiotropium-Bromide-Inhaler.jpg"
+            },
+            {
+                "name": "Formoterol",
+                "form": "Inhaler",
+                "price": 405,
+                "image_url": "https://i0.wp.com/www.mayabiotechindia.com/wp-content/uploads/2023/02/Formoterol-Fumarate-and-Budesonide-Inhalation-200-Budisure-F-200.webp"
+            },
+            {
+                "name": "Ipratropium",
+                "form": "Inhaler",
+                "price": 35,
+                "image_url": "https://nutrarespiro.com/public/Products/gwQp2lSFLDvM6n2G1VAHRxMVWZ40UXaDBApbGZcv.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Hyperlipidemia",
+        "medicines": [
+            {
+                "name": "Atorvastatin",
+                "form": "Tablet",
+                "price": 82,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/7/325710235/RG/XA/JU/74349057/atorvastatin-10-mg.jpg"
+            },
+            {
+                "name": "Simvastatin",
+                "form": "Tablet",
+                "price": 188,
+                "image_url": "https://media.post.rvohealth.io/wp-content/uploads/2020/09/388x210_Simvastatin_vs_Atorva.jpg"
+            },
+            {
+                "name": "Rosuvastatin",
+                "form": "Tablet",
+                "price": 226,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/9/341630655/NP/HL/SU/190216606/rosuvastatin-5-mg-tablets.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Depression",
+        "medicines": [
+            {
+                "name": "Fluoxetine",
+                "form": "Tablet",
+                "price": 67,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/8/337360950/BE/NC/FK/7034457/fluoxetine-capsules-20mg.jpg"
+            },
+            {
+                "name": "Sertraline",
+                "form": "Tablet",
+                "price": 197,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/8/337366367/KI/RJ/BA/7034457/sertraline-100-mg-tablets.jpg"
+            },
+            {
+                "name": "Escitalopram",
+                "form": "Tablet",
+                "price": 84,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2021/12/CD/WU/EA/1803202/10-mg-escitalopram-tablet.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Anxiety",
+        "medicines": [
+            {
+                "name": "Alprazolam",
+                "form": "Tablet",
+                "price": 29,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/3/397673662/GY/IN/GA/156548917/alprazolam-0-5-mg.jpg"
+            },
+            {
+                "name": "Lorazepam",
+                "form": "Tablet",
+                "price": 23,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/4/409399941/FP/PQ/JV/213844040/lorazepam-2-mg-with-delivery.jpg"
+            },
+            {
+                "name": "Buspirone",
+                "form": "Tablet",
+                "price": 50,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/313302798/QC/GO/II/1090199/5-mg-buspirone-hydrochloride-tablets-ip.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Bipolar Disorder",
+        "medicines": [
+            {
+                "name": "Lithium",
+                "form": "Tablet",
+                "price": 85,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/FF/VA/AF/23618296/lithium-carbonate-300mg-tab.jpg"
+            },
+            {
+                "name": "Valproate",
+                "form": "Tablet",
+                "price": 103,
+                "image_url": "https://5.imimg.com/data5/TX/YV/MY-557330/sodium-valproate.jpg"
+            },
+            {
+                "name": "Lamotrigine",
+                "form": "Tablet",
+                "price": 510,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/314674799/EC/WL/OR/100103466/lamotrigine-100-mg-tablet.jpeg"
+            }
+        ]
+    },
+    {
+        "disease": "Schizophrenia",
+        "medicines": [
+            {
+                "name": "Risperidone",
+                "form": "Tablet",
+                "price": 35,
+                "image_url": "https://example.com/risperidone.jpg"
+            },
+            {
+                "name": "Olanzapine",
+                "form": "Tablet",
+                "price": 59,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/1/VU/BB/BY/13166357/olanzapine-ip-5mg-.jpg"
+            },
+            {
+                "name": "Quetiapine",
+                "form": "Tablet",
+                "price": 69,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/4/410197103/HN/ZG/JS/1803202/quetiapine-100-mg-tablets-250x250.png"
+            }
+        ]
+    },
+    {
+        "disease": "Epilepsy",
+        "medicines": [
+            {
+                "name": "Carbamazepine",
+                "form": "Tablet",
+                "price": 55,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/4/301799761/IL/JM/FH/7034457/carbamazepine-tablets.jpg"
+            },
+            {
+                "name": "Phenytoin",
+                "form": "Tablet",
+                "price": 235,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/UP/CJ/AH/760137/phenytoin-sodium-100-mg-tablets-500x500.jpg"
+            },
+            {
+                "name": "Levetiracetam",
+                "form": "Tablet",
+                "price": 218,
+                "image_url": "https://www.eridanushealth.com/wp-content/uploads/2020/07/Ericetam-500-1.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Parkinson's Disease",
+        "medicines": [
+            {
+                "name": "Levodopa",
+                "form": "Tablet",
+                "price": 43,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/10/PL/OL/VE/23618296/levodopa-100-mg-carbidopa-25-mg.jpg"
+            },
+            {
+                "name": "Carbidopa",
+                "form": "Tablet",
+                "price": 43,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/9/343306037/MG/UR/UF/196340703/carbidopa-levodopa-tablet.jpg"
+            },
+            {
+                "name": "Pramipexole",
+                "form": "Tablet",
+                "price": 167,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/2/TB/HO/LP/2581214/pramipex-0-125-tablet-pramipexole-dihydrochloride-tablets-.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Alzheimer's Disease",
+        "medicines": [
+            {
+                "name": "Donepezil",
+                "form": "Tablet",
+                "price": 203,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/9/343062653/XC/ZF/LS/557330/donepezil-tablet.jpg"
+            },
+            {
+                "name": "Memantine",
+                "form": "Tablet",
+                "price": 210,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/11/362294550/SJ/SV/JE/140372251/memantine-hydrochloride-tablets-usp.jpg"
+            },
+            {
+                "name": "Rivastigmine",
+                "form": "Capsule",
+                "price": 192,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/MT/WO/YV/23618296/rivamer-1-5mg-capsule.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Osteoporosis",
+        "medicines": [
+            {
+                "name": "Alendronate",
+                "form": "Tablet",
+                "price": 250,
+                "image_url": "https://tiimg.tistatic.com/fp/1/008/245/70-mg-alendronate-sodium-tablet-suitable-for-women-recommended-by-doctor-465.jpg"
+            },
+            {
+                "name": "Risedronate",
+                "form": "Tablet",
+                "price": 284,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/2/FN/QO/EJ/57999077/risedronate-risofos-tablets.jpg"
+            },
+            {
+                "name": "Calcitonin",
+                "form": "Injection",
+                "price": 1270,
+                "image_url": "https://5.imimg.com/data5/RG/TG/GT/SELLER-79560955/liquid-calcitonic-injection-ip.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Hypothyroidism",
+        "medicines": [
+            {
+                "name": "Levothyroxine",
+                "form": "Tablet",
+                "price": 167,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/8/FH/HX/FF/154726424/levothyroxine-50-mcg-tablets.jpg"
+            },
+            {
+                "name": "Liothyronine",
+                "form": "Tablet",
+                "price": 1400,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/7/329384024/FS/UL/ZM/109163897/linorma-t3-1.jpg"
+            },
+            {
+                "name": "Armour Thyroid",
+                "form": "Tablet",
+                "price": 671,
+                "image_url": "https://5.imimg.com/data5/WD/GU/QS/SELLER-89988329/armour-thyroid-medicines.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Hyperthyroidism",
+        "medicines": [
+            {
+                "name": "Methimazole",
+                "form": "Tablet",
+                "price": 349,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2021/1/XW/LT/OO/88462799/methimercazole-10-tablet.jpg"
+            },
+            {
+                "name": "Propylthiouracil",
+                "form": "Tablet",
+                "price": 870,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/9/DA/LK/SG/160318558/propylthiouracil-tablet.jpg"
+            },
+            {
+                "name": "Radioactive Iodine",
+                "form": "Capsule",
+                "price": 107,
+                "image_url": "https://assets.medpagetoday.net/media/devqa/images/80xxx/80895.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Anemia",
+        "medicines": [
+            {
+                "name": "Ferrous Sulfate",
+                "form": "Tablet",
+                "price": 339,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2021/8/JV/VG/SP/624372/feurros-sulphate.jpg"
+            },
+            {
+                "name": "Folic Acid",
+                "form": "Tablet",
+                "price": 398,
+                "image_url": "https://m.media-amazon.com/images/I/41sz-mA-OeL.AC_UF1000,1000_QL80.jpg"
+            },
+            {
+                "name": "Vitamin B12",
+                "form": "Injection",
+                "price": 498,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/1/380126670/RE/AO/HG/126410288/vitamin-b12-injection.jpeg"
+            }
+        ]
+    },
+    {
+        "disease": "Gastroesophageal Reflux Disease (GERD)",
+        "medicines": [
+            {
+                "name": "Omeprazole",
+                "form": "Tablet",
+                "price": 64,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/9/348591590/PV/AJ/KF/107077587/omeprazole-capsules-ip-20-mg.jpeg"
+            },
+            {
+                "name": "Ranitidine",
+                "form": "Tablet",
+                "price": 49,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/7/CD/MN/UA/147460468/ranitidine-150mg-.jpg"
+            },
+            {
+                "name": "Esomeprazole",
+                "form": "Tablet",
+                "price": 167,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/11/BU/PG/SH/23618296/esomeprazole-20-mg-40-mg-tab-500x500.jpeg"
+            }
+        ]
+    },
+    {
+        "disease": "Peptic Ulcer",
+        "medicines": [
+            {
+                "name": "Pantoprazole",
+                "form": "Tablet",
+                "price": 170,
+                "image_url": "https://www.krishlarpharma.com/wp-content/uploads/2019/12/KRITZOL-40-tablet.jpg"
+            },
+            {
+                "name": "Lansoprazole",
+                "form": "Tablet",
+                "price": 140,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/5/308538593/TT/KX/MB/20713248/lansoprazole-capsules-ip-30-mg-500x500.jpg"
+            },
+            {
+                "name": "Sucralfate",
+                "form": "Tablet",
+                "price": 123,
+                "image_url": "https://www.netmeds.com/images/product-v1/600x600/359806/sucrafil_tablet_10_s_0.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Irritable Bowel Syndrome (IBS)",
+        "medicines": [
+            {
+                "name": "Dicyclomine",
+                "form": "Tablet",
+                "price": 49,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/6/MO/PQ/EX/31086406/dicyclomine-hydrochloride-tablets.jpg"
+            },
+            {
+                "name": "Hyoscyamine",
+                "form": "Tablet",
+                "price": 56,
+                "image_url": "https://cpimg.tistatic.com/07673964/b/4/Hyoscyamine-Tablets.jpg"
+            },
+            {
+                "name": "Loperamide",
+                "form": "Tablet",
+                "price": 16,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/7/325604889/ID/VX/WP/154616807/diarmak-2-loperamide-2-mg-tablets-makmaul-labocare-1x10.png"
+            }
+        ]
+    },
+    {
+        "disease": "Celiac Disease",
+        "medicines": [
+            {
+                "name": "Gluten-free Diet",
+                "form": "Diet",
+                "price": 342,
+                "image_url": "https://bestgastroahmedabad.com/wp-content/uploads/2023/06/Celiac-Disease-food-to-eat-and-avoid-scaled.jpg"
+            },
+            {
+                "name": "Vitamin Supplements",
+                "form": "Tablet",
+                "price": 1440,
+                "image_url": "https://5.imimg.com/data5/MH/KW/KU/SELLER-1733081/antioxidants-multivitamin-multimineral-capsules.jpg"
+            },
+            {
+                "name": "Corticosteroids",
+                "form": "Tablet",
+                "price": 64,
+                "image_url": "https://www.hss.edu/images/socialmedia/corticosteroid-prednisone-tablets-1200x628.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Crohn's Disease",
+        "medicines": [
+            {
+                "name": "Mesalamine",
+                "form": "Tablet",
+                "price": 71,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/6/XV/YT/RK/13166357/aloe-vera-juice-500-ml-500x500.jpeg"
+            },
+            {
+                "name": "Azathioprine",
+                "form": "Tablet",
+                "price": 118,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/6/TF/CR/IY/118517374/azathioprine-tablets-50mg.jpg"
+            },
+            {
+                "name": "Infliximab",
+                "form": 17440,
+                "price": "N/A",
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/9/RC/JQ/VI/20293607/infliximab-injection.jpg"
+            }
+        ]
+    },
+    {
+        "disease": "Ulcerative Colitis",
+        "medicines": [
+            {
+                "name": "Sulfasalazine",
+                "form": "Tablet",
+                "price": 119,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/IT/GL/HV/23618296/sulfasalazine-500-mg-1000-mg.jpg"
+            },
+            {
+                "name": "Prednisone",
+                "form": "Tablet",
+                "price": 77,
+                "image_url": "https://cdn.mos.cms.futurecdn.net/m8xQaU8ZnvPfq8xiiU5RtW-1200-80.jpg"
+            },
+            {
+                "name": "Adalimumab",
+                "form": "Injection",
+                "price": 10000,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/1/379347975/WX/VP/GL/58894624/adalimumab-40mg-injection-500x500.jpeg"
+            }
+        ]
+    },
+    {
+        "disease": "Chronic Kidney Disease",
+        "medicines": [
+            {
+                "name": "Epoetin Alfa",
+                "form": "Injection",
+                "price": 900,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/4/408139386/RY/PV/YC/218057651/epoetin-alfa.jpeg"
+            },
+            {
+                "name": "Calcium Acetate",
+                "form": "Tablet",
+                "price": 49,
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/1/WD/AB/IK/13166357/calcium-acetate-usp-667mg.jpg"
+            },
+            {
+                "name": "Sevelamer",
+                "form": "Tablet",
+                "price": 203,
+                "image_url": "https://5.imimg.com/data5/ANDROID/Default/2023/6/316242763/JT/AH/VQ/95620222/product-jpeg.jpg"
+            }
+        ]
+    },
+    [
     {
         "disease": "Hepatitis",
         "medicines": [
@@ -587,7 +587,8 @@
                 "name": "Ledipasvir",
                 "form": "Tablet",
                 "price": 16000,
-                "image_url": "https://cdn.hepatitisc.uw.edu/doc/243-1/bottle-ledipasvir-sofosbuvir-emharvoniem.jpg"
+                "image_url": "https://cdn.hepatitisc.uw.edu/doc/243-1/bottle-ledipasvir-sofosbuvir-emharvoniem.jpg
+                "
             },
             {
                 "name": "Ribavirin",
