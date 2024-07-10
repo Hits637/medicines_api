@@ -573,7 +573,7 @@
             }
         ]
     },
-    [
+    
     {
         "disease": "Hepatitis",
         "medicines": [
@@ -596,5 +596,5 @@
                 "image_url": "https://cpimg.tistatic.com/07720704/b/4/200mg-Ribavirin-Capsules-USP.jpg"
             }
         ]
-    }
-]
+    },
+
