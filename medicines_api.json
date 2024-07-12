@@ -1,7 +1,7 @@
 {
     "diseases": [
         {
-            "name": "Hypertention",
+            "name": "Hypertension",
             "medicines": [
                 {
                     "name": "Amlodipine",
