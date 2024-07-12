@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Tynor Knee Wrap",
+        "price": 25,
+        "image_url": "https://www.netmeds.com/images/product-v1/600x600/407689/tynor_knee_wrap_neoprene_one_size_fits_all_j_05_2_0.jpg"
+    },
+    {
+        "name": "McDavid Ankle Brace",
+        "price": 30,
+        "image_url": "https://cdn11.bigcommerce.com/s-qhxysj/images/stencil/1280x1280/products/399/1307/md_195_anklebracestraps_2000x__54312.1591877423.png?c=2"
+    },
+    {
+        "name": "DonJoy IceMan Clear3 Cold Therapy Unit",
+        "price": 200,
+        "image_url": "https://mycoldtherapy.com/cdn/shop/products/donjoy-iceman-clear3-small-shoulder-pad-w-dressing-text.jpg?v=1632939543"
+    },
+    {
+        "name": "Futuro Elbow Support",
+        "price": 40,
+        "image_url": "https://m.media-amazon.com/images/I/616Z51+mlBL.jpg"
+    },
+    {
+        "name": "Mueller Knee Brace",
+        "price": 35,
+        "image_url": "https://www.planethealth.in/image/cache/catalog/Asha/m%206455%201-500x500.jpeg"
+    },
+    {
+        "name": "Breg Polar Care Cube",
+        "price": 150,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwvXNi6Y8WwKNsZTLDHt4gqeEepgJ7CYaAqg&s"
+    },
+    {
+        "name": "Thermoskin Thermal Back Support",
+        "price": 50,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl704Oglk7gkm4yIZ4P2NZr_1Qqzi0jhLMrw&s"
+    },
+    {
+        "name": "Biofreeze Pain Relief Gel",
+        "price": 15,
+        "image_url": "https://m.media-amazon.com/images/I/81CzW95c3lL.jpg"
+    },
+    {
+        "name": "Zensah Compression Sleeves",
+        "price": 30,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslTdfnfriMQa_8eWAfLaUQWOicEe2jQuI9Q&s"
+    },
+    {
+        "name": "Ossur Form Fit Wrist Brace",
+        "price": 25,
+        "image_url": "https://images-cdn.ubuy.co.in/6558e4c5bbc016188d501046-ossur-formfit-wrist-forearm-brace-for.jpg"
+    },
+    {
+        "name": "Comfortland Lumbar Support Brace",
+        "price": 40,
+        "image_url": "https://images-cdn.ubuy.co.in/64664bd0790c4471ae47300a-comfortland-cl-delta-631-lumbar-back.jpg"
+    },
+    {
+        "name": "Shock Doctor Knee Brace",
+        "price": 55,
+        "image_url": "https://m.media-amazon.com/images/I/718AMUk9tJL.jpg"
+    },
+    {
+        "name": "Aircast AirSelect Walking Boot",
+        "price": 90,
+        "image_url": "https://5.imimg.com/data5/GLADMIN/Default/2022/11/WX/VA/BB/4263927/aircast-airselect-elite-walker-boot-500x500.jpg"
+    },
+    {
+        "name": "Sammons Preston Arm Sling",
+        "price": 20,
+        "image_url": "https://www.devinemedical.com/v/vspfiles/photos/SAMMONS-PRESTON-6160-2T.jpg"
+    },
+    {
+        "name": "TheraGun Elite Percussive Therapy Device",
+        "price": 400,
+        "image_url": "https://m.media-amazon.com/images/I/71d5HHpUwYL.jpg"
+    }
+]
