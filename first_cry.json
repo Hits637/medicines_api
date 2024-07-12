@@ -45,13 +45,13 @@
     {
         "name": "Baby Thermometer",
         "form": "Digital",
-        "price": "$9.99 each",
+        "price": 200,
         "image_url": "https://example.com/baby_thermometer.jpg"
     },
     {
         "name": "Baby Bath Tub",
         "form": "Plastic",
-        "price":2000",
+        "price": 2000,
         "image_url": "https://example.com/baby_bath_tub.jpg"
     },       
     {
