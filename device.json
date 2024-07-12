@@ -1,0 +1,92 @@
+[
+    {
+        "name": "ankle support",
+        "brand": "Tynor",
+        "price": 299,
+        "image_url": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/rwuex5xr1l2rqse4zojw.jpg"
+    },
+    {
+        "name": "blood pressure monitor",
+        "brand": "Omron",
+        "price": 1899,
+        "image_url": "https://m.media-amazon.com/images/I/61QHmEIjUxL.jpg"
+    },
+    {
+        "name": "digital thermometer",
+        "brand": "Dr. Trust",
+        "price": 299,
+        "image_url": "https://m.media-amazon.com/images/I/41KjP9lSwSL.jpg"
+    },
+    {
+        "name": "first aid kit",
+        "brand": "J&J",
+        "price": 499,
+        "image_url": "https://www.band-aid.com/sites/bandaid_us/files/product-images/bab_381372020453_us_jnj_all-purpose_first_aid_kit_160ct_00000.png"
+    },
+    {
+        "name": "glucometer",
+        "brand": "Accu-Chek",
+        "price": 1399,
+        "image_url": "https://m.media-amazon.com/images/I/71grSBGh9LL.AC_UF894,1000_QL80.jpg"
+    },
+    {
+        "name": "heating pad",
+        "brand": "Sunbeam",
+        "price": 799,
+        "image_url": "https://m.media-amazon.com/images/I/51ko5T6XNsL.AC_UF350,350_QL80.jpg"
+    },
+    {
+        "name": "knee support",
+        "brand": "LP Support",
+        "price": 399,
+        "image_url": "https://m.media-amazon.com/images/I/7199jhFpPcL.AC_UF1000,1000_QL80.jpg"
+    },
+    {
+        "name": "nebulizer",
+        "brand": "Philips",
+        "price": 2499,
+        "image_url": "https://medikart.co.in/wp-content/uploads/2021/10/71yc1s4w9yl.sl1500-5cabf2ca14234b0001c5cd21-1.jpg"
+    },
+    {
+        "name": "oximeter",
+        "brand": "Dr. Trust",
+        "price": 1299,
+        "image_url": "https://m.media-amazon.com/images/I/71M-09ee9AL.jpg"
+    },
+    {
+        "name": "pulse massager",
+        "brand": "Beurer",
+        "price": 3499,
+        "image_url": "https://m.media-amazon.com/images/I/61pwNXwsLCL.AC_UF1000,1000_QL80.jpg"
+    },
+    {
+        "name": "stethoscope",
+        "brand": "3M Littmann",
+        "price": 5999,
+        "image_url": "https://5.imimg.com/data5/SELLER/Default/2020/8/BH/VW/GB/6382411/new-product.jpg"
+    },
+    {
+        "name": "surgical gloves",
+        "brand": "Micro Touch",
+        "price": 499,
+        "image_url": "https://m.media-amazon.com/images/I/51p8LYPK2RL.AC_UF1000,1000_QL80.jpg"
+    },
+    {
+        "name": "walking stick",
+        "brand": "Vissco",
+        "price": 699,
+        "image_url": "https://m.media-amazon.com/images/I/31u5wk1N9tL.jpg"
+    },
+    {
+        "name": "wheelchair",
+        "brand": "Karma",
+        "price": 12999,
+        "image_url": "https://m.media-amazon.com/images/I/61jVP2cudzL.AC_UF1000,1000_QL80.jpg"
+    },
+    {
+        "name": "wrist support",
+        "brand": "Tynor",
+        "price": 249,
+        "image_url": "https://www.netmeds.com/images/product-v1/600x600/407576/tynor_elastic_wrist_splint_right_m_e_01_2_0.jpg"
+    }
+]
