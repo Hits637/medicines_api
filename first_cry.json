@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Diapers",
+        "form": "Disposable",
+        "price": 100,
+        "image_url": "https://example.com/diapers.jpghttps://www.bigbasket.com/media/uploads/p/l/40136606_5-pampers-diaper-pants-new-born.jpg"
+    },
+    {
+        "name": "Baby Shampoo",
+        "form": "Liquid",
+        "price": 200,
+        "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/I20342/johnsons-baby-no-more-tears-shampoo-500ml-2-1669710514.jpg"
+    },
+    {
+        "name": "Baby Lotion",
+        "form": "Cream",
+        "price": 170,
+        "image_url": "https://www.johnsonsbaby.com/sites/jbaby_us_3/files/styles/product_image/public/product-images/jns_381371175604_500ml_00000_1000wx1000h.jpeg"
+    },
+    {
+        "name": "Baby Powder",
+        "form": "Powder",
+        "price": 250,
+        "image_url": "https://m.media-amazon.com/images/I/51xu7-yTm6L.jpg"
+    },
+    {
+        "name": "Baby Soap",
+        "form": "Bar soap",
+        "price": 80,
+        "image_url": "https://m.media-amazon.com/images/I/71v-7ORABOL.jpg"
+    },
+    {
+        "name": "Baby Oil",
+        "form": "Oil",
+        "price": 60,
+        "image_url": "https://m.media-amazon.com/images/I/61tEBiP5CEL.jpg"
+    },
+    {
+        "name": "Baby Nail Clippers",
+        "form": "Clippers",
+        "price": 150,
+        "image_url": "https://example.com/baby_nail_clippers.jpg"
+    },
+    
+    {
+        "name": "Baby Thermometer",
+        "form": "Digital",
+        "price": "$9.99 each",
+        "image_url": "https://example.com/baby_thermometer.jpg"
+    },
+    {
+        "name": "Baby Bath Tub",
+        "form": "Plastic",
+        "price":2000",
+        "image_url": "https://example.com/baby_bath_tub.jpg"
+    },       
+    {
+        "name": "Baby Toothbrush",
+        "form": "Toothbrush",
+        "price": 230,
+        "image_url": "https://static.beautytocare.com/cdn-cgi/image/width=1600,height=1600,f=auto/media/catalog/product//e/l/elgydium-baby-toothbrush-soft-x1.jpg"
+    },
+    {
+        "name": "Baby Bottle",
+        "form": "Bottle",
+        "price": 700,
+        "image_url": "https://ph-live-01.slatic.net/p/0f12ad7feb9745c3578f184ae9df9db9.jpg"
+    },
+    {
+        "name": "Baby Food",
+        "form": "Puree",
+        "price": 600,
+        "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/I04947/nestle-cerelac-baby-cereal-with-milk-multigrain-fruits-from-12-to-24-months-box-of-300gm-2-1708082239.jpg?dim=1440x1440&q=75"
+    },
+    {
+        "name": "Baby Carrier",
+        "form": "Carrier",
+        "price": 2500,
+        "image_url": "https://images-cdn.ubuy.co.in/633ad4961927b0374553c768-alobeby-baby-carrier-6-in-1-carrier.jpg"
+    },
+    {
+        "name": "Baby Blanket",
+        "form": "Blanket",
+        "price": 1000,
+        "image_url": "https://m.media-amazon.com/images/I/61X3l3LtmmS.jpg"
+    },
+    {
+        "name": "Baby Socks",
+        "form": "Clothing",
+        "price": 100,
+        "image_url": "https://m.media-amazon.com/images/I/71VhLq23N9L.AC_UY1100.jpg"
+    },
+    {
+        "name": "Baby Hat",
+        "form": "Clothing",
+        "price": 335,
+        "image_url": "https://img.fruugo.com/product/7/33/760685337_0340_0340.jpg"
+    },
+    {
+        "name": "Baby Shoes",
+        "form": "Shoes",
+        "price": 300,
+        "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/7/326786118/UV/RJ/CC/5391221/whatsapp-image-2023-07-04-at-4-05-21-pm.jpeg"
+    }   
+]
