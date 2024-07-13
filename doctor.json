@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Dr. Alice Johnson",
+        "specialized of": "Orthopedic Surgery",
+        "contact number": "555-1234",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1H6aVS-I1WRD1gyeddJv-UZv5XymdTgpFBw&s"
+    },
+    {
+        "name": "Dr. Robert Smith",
+        "specialized of": "Pediatrics",
+        "contact number": "555-5678",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQ6TBppMh8z8w0mv2aogxGZS2IWL6BmyV4w&s"
+    },
+    {
+        "name": "Dr. Emily Davis",
+        "specialized of": "Cardiology",
+        "contact number": "555-8765",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQ6TBppMh8z8w0mv2aogxGZS2IWL6BmyV4w&s"
+    },
+    {
+        "name": "Dr. Michael Brown",
+        "specialized of": "Dermatology",
+        "contact number": "555-4321",
+        "image_url": "https://www.jewishvoice.org/sites/default/files/styles/hero/public/blog/2023-08/drmichaelbrown.jpg?itok=O0WMQEEZ"
+    },
+    {
+        "name": "Dr. Sarah Miller",
+        "specialized of": "Neurology",
+        "contact number": "555-6789",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCXSjfHzZUnM_ndIvjcuB3Pv92Xb64Yvvxg&s"
+    },
+    {
+        "name": "Dr. James Wilson",
+        "specialized of": "Gastroenterology",
+        "contact number": "555-3456",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/8/80/Jameswilsonpromoseason6.jpg"
+    },
+    {
+        "name": "Dr. Linda Martinez",
+        "specialized of": "Ophthalmology",
+        "contact number": "555-7890",
+        "image_url": "https://doximity-res.cloudinary.com/images/f_auto,q_auto,t_profile_photo_320x320/mom3xw9kkbff04owtn2n/linda-martinez-md-doral-fl.jpg"
+    },
+    {
+        "name": "Dr. David Anderson",
+        "specialized of": "Pulmonology",
+        "contact number": "555-2345",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR02hj2Wq-iwfOMkK2JBzM6R3Ap77UB7UKR8A&s"
+    },
+    {
+        "name": "Dr. Laura Thomas",
+        "specialized of": "Endocrinology",
+        "contact number": "555-6780",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH534cVUoLIkUmrgNzevqO67Sw7RuddtBLDg&s"
+    },
+    {
+        "name": "Dr. William Lee",
+        "specialized of": "Rheumatology",
+        "contact number": "555-4567",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSov_8OAAVWSwhW7GPHC-eZTzUZQ_j582UEA&s"
+    },
+    {
+        "name": "Dr. Barbara Harris",
+        "specialized of": "Oncology",
+        "contact number": "555-8901",
+        "image_url": "https://media.licdn.com/dms/image/C4D03AQFpuop7iBUDfg/profile-displayphoto-shrink_200_200/0/1517448105919?e=2147483647&v=beta&t=fxfLgtgYUI0MqEzgAqywmqIQevf8aYyXcsplDdagMw8"
+    },
+]
